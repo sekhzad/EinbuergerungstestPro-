@@ -1,0 +1,28 @@
+/* LeftComponent.css */
+
+.left-component {
+    flex: 1;
+    max-width: 250px;
+    border-right: 1px solid #ddd;
+    padding-right: 20px;
+  }
+  
+  .left-component h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .left-component ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .left-component li {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .left-component li:hover {
+    text-decoration: underline;
+  }
+  

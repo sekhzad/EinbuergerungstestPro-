@@ -1,0 +1,47 @@
+/* src/styles.css */
+.sub-topic-card {
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.question-card {
+  margin: 10px 0;
+}
+
+.topic-section {
+  margin-top: 20px;
+}
+
+.topic-card {
+  margin-top: 20px;
+}
+
+
+
+/* src/styles.css */
+.RightComponent {
+  margin-top: 20px;
+}
+
+
+.indented-list {
+  padding-left: 20px; /* Adjust the value to your preference */
+}
+
+/* progress bar */
+.custom-progress-bar {
+  background: linear-gradient(to left, green, white);
+  position: relative;
+  height: 25px;
+}
+
+.progress-bar-label {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  line-height: 25px;
+  top: 0;
+}
+

@@ -1,0 +1,9 @@
+/* Explanation.css */
+.explanation {
+    background-color: #f8f9fa;
+    border-left: 5px solid #007bff;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+  }

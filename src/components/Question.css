@@ -1,0 +1,14 @@
+.question-section {
+  margin: 20px;
+}
+.question-text {
+  font-size: 24px;
+}
+.answer-section {
+  margin-top: 20px;
+}
+.answer-section button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 18px;
+}
