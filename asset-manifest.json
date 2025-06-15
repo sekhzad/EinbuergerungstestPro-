@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EinbuergerungstestPro/static/css/main.5a57694d.css",
+    "main.js": "/EinbuergerungstestPro/static/js/main.9f2721dd.js",
+    "index.html": "/EinbuergerungstestPro/index.html",
+    "main.5a57694d.css.map": "/EinbuergerungstestPro/static/css/main.5a57694d.css.map",
+    "main.9f2721dd.js.map": "/EinbuergerungstestPro/static/js/main.9f2721dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a57694d.css",
+    "static/js/main.9f2721dd.js"
+  ]
+}
