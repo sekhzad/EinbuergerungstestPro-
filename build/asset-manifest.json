@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EinbuergerungstestPro/static/css/main.5a57694d.css",
-    "main.js": "/EinbuergerungstestPro/static/js/main.d5c7f690.js",
-    "index.html": "/EinbuergerungstestPro/index.html",
-    "main.5a57694d.css.map": "/EinbuergerungstestPro/static/css/main.5a57694d.css.map",
-    "main.d5c7f690.js.map": "/EinbuergerungstestPro/static/js/main.d5c7f690.js.map"
+    "main.css": "/EinbuergerungstestPro-/static/css/main.5a57694d.css",
+    "main.js": "/EinbuergerungstestPro-/static/js/main.e89056fd.js",
+    "index.html": "/EinbuergerungstestPro-/index.html",
+    "main.5a57694d.css.map": "/EinbuergerungstestPro-/static/css/main.5a57694d.css.map",
+    "main.e89056fd.js.map": "/EinbuergerungstestPro-/static/js/main.e89056fd.js.map"
   },
   "entrypoints": [
     "static/css/main.5a57694d.css",
-    "static/js/main.d5c7f690.js"
+    "static/js/main.e89056fd.js"
   ]
 }
