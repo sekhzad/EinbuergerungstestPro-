@@ -14,6 +14,7 @@ import MarkedQuestions from './MarkedQuestions';
 import BookmarksIcon from '@mui/icons-material/Bookmarks';
 import BookmarkAddedIcon from '@mui/icons-material/BookmarkAdded';
 import SafeArea from './SafeArea';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 const theme = createTheme({
   palette: {
@@ -391,6 +392,7 @@ const App = () => {
   );
 
   return (
+      <BrowserRouter basename="/EinbuergerungstestPro">
     <ThemeProvider theme={theme}>
       <Container style={{ paddingTop: '80px', paddingBottom: '56px' }}>
         <SafeArea onBack={handleBack} showBackButton={subView !== 'home'} title={view !== 'support' && view !== 'factsLegal' ? getTitle() : ''} />
@@ -463,6 +465,8 @@ const App = () => {
         </Dialog>
       </Container>
     </ThemeProvider>
+    </BrowserRouter>
+
   );
 };
 
